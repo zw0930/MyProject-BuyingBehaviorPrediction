@@ -1,2 +1,2 @@
-# Personal-Project--Sentiment-Analysis-and-Prediction
-British Airways Virtual Internship: Customer Feedback Analysis and Buying Behavior Prediction
+# MyProject-BuyingBehaviorPrediction
+British Airways Data Science Virtual Internship on Forage: Customer Feedback Analysis and Buying Behavior Prediction
