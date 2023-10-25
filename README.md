@@ -7,7 +7,7 @@ British Airways Data Science Job Simulation on Forage: Customer Feedback Analysi
 ## Task 1: Web Scraping and Sentiment Analysis
 - Acquired unstructured data from a third-party website, https://www.airlinequality.com/airline-reviews/british-airways, through web scraping.
 - Cleaned and structured the data for analysis.
-- Identified key topics and conducted sentiment analysis of the collected reviews using Natural Language Processing (NLP), narrowing down the number of important customer service factors from 20 to 2.
+- Identified key topics and conducted sentiment analysis of the collected reviews using Natural Language Processing (NLP), narrowing down the number of important customer service factors.
 - Presented insights and informative analysis to stakeholders and decision-makers.
 
 ## Task 2: EDA and Buying Behavior Prediction
