@@ -1,3 +1,5 @@
+![alt text](https://github.com/zw0930/MyProject-BuyingBehaviorPrediction/blob/main/data/BA_git_cover.png?raw=true)
+
 # MyProject-BuyingBehaviorPrediction
 British Airways Data Science Job Simulation on Forage: Customer Feedback Analysis and Buying Behavior Prediction - April 2023
 
